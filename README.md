@@ -97,8 +97,3 @@ To generate a private key file for your service account:
 In the Firebase console, open Settings > Service Accounts.
 Click Generate New Private Key, then confirm by clicking Generate Key.
 9. replace the google_services.json file with the new .json file you saved before.
-
-
-
-## As an enterprenuer or a community manager
-Launch your community on the [Fuse Studio](https://studio.fuse.io/), then open the community dashboard. There you can configure it and *customize your wallet* app. When you done go to "White label wallet" and send an app invite link to yourself. Visit our [docs](https://docs.fuse.io/the-fuse-studio/overview) to learn about the Fuse Studio.
