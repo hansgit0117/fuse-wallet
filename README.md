@@ -48,3 +48,5 @@ Clone the project using git commands.
 - Run the app using:
 
       flutter run lib\main_prod.dart
+
+If you like my work, please don't forget to ⭐
